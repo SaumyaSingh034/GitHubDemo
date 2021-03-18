@@ -15,5 +15,17 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApp");
 	}
+	@Test
+	public void radiant()
+	{
+		System.out.println("radiant");
+	}
+	
+	@Test
+	public void rahul()
+	{
+		System.out.println("rahul singh bist");
+	}
+
 
 }
